@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por resolver problemas através do código. Minh
 
 ### 📫 Como me encontrar
 
-- **LinkedIn**: [Pedro Souza]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-souza-67ba36307/))
+- **LinkedIn**: [Pedro Souza](https://www.linkedin.com/in/pedro-souza-67ba36307/)
 - **Email**: [pedrorsouzaa032@gmail.com]
 
 ---
