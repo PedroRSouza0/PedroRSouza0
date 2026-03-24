@@ -22,4 +22,6 @@ Sou um desenvolvedor apaixonado por resolver problemas através do código. Minh
 - **LinkedIn**: [Pedro Souza](https://www.linkedin.com/in/pedro-souza-67ba36307/)
 - **Email**: [pedrorsouzaa032@gmail.com]
 
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,git,react)](https://skillicons.dev)
 ---
