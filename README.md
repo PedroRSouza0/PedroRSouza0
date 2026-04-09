@@ -23,5 +23,5 @@ Sou um desenvolvedor apaixonado por resolver problemas através do código. Minh
 - **Email**: [pedrorsouzaa032@gmail.com]
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,git,react,flask)](https://skillicons.dev)
 ---
